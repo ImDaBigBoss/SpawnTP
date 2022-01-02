@@ -1,0 +1,4 @@
+name: SpawnTP
+main: com.github.imdabigboss.spawntp.spawntp
+version: 1.0
+api-version: 1.15
